@@ -168,3 +168,133 @@
 #     print('isosceles')
 # else:
 #     print('scalene')
+
+# nechtasi musbat
+
+# a = 10
+# b = 4
+# c = -3
+# soni = 0
+# if(a>0):
+#     soni+= 1
+# if(b>0):
+#     soni+= 1
+# if(c>0):
+#     soni+= 1
+# print(soni)
+
+# kichik son
+
+# a=20
+# b=10
+# if a>b :
+#     print(b)
+# elif a==b :
+#     print("teng")
+# else:
+#     print(a)
+
+
+# ortacha qiymat
+
+# a=10
+# b=5
+# c=3
+# print((a+b+c)/3)
+
+# sonlarni taqqoslab tashlang
+
+# a=5
+# b=7
+# c=10
+
+# if(a<b and b<c):
+#     print(1)
+# elif c<b and b<a :
+#     print(2)
+# elif a<b and c<b :
+#     print(b)
+# elif a==b and b==c :
+#     print(5)
+# else:
+#     print(0)
+
+# ozaro teng sonlar
+
+# a = 5
+# b = 10
+# c = 5
+
+# if(a==b):
+#     print(c)
+# elif(a==c):
+#     print(b)
+# elif(b==c):
+#     print(a)
+# else:
+#     print(0)
+
+# sonlar oqidagi masala 
+
+# a=3
+# b=5
+# if a>b:
+#     print(a-b)
+# elif b>a:
+#     print(b-a)
+
+# sonlar oqidagi a nuqta 
+
+# a=-20
+# if a>0:
+#     print(a)
+# elif(a<0):
+#     print(a*-1)
+
+# son necha xonali
+
+# a=45
+
+# if(0<=a and a <10):
+#     print(1)
+# elif 10<= a and a<100:
+#     print(2)
+# elif(100 <= a and a<1000 ):
+#     print(3)
+
+# barchasi musbatmi
+
+# a = 5
+# b=6
+# c=4
+# d=7
+# if(a >0 and b > 0 and c > 0 and d > 0):
+#     print(True)
+# else:
+#     print(False)
+
+# 3 ta son 
+
+# a = 5 
+# b=7
+# c=9
+
+# if((a%2!=0) and ( b%2!=0) and (c%2!=0) ):
+#     print(1)
+# elif((a%2==0) and ( b%2==0) and (c%2==0)):
+#     print(2)
+# elif((a%2!=0) or ( b%2!=0) or (c%2!=0)):
+#     print(3)
+# else:
+#     print(0)
+
+# 2 son yasash
+
+# a=0
+# b=2
+# c=3
+# if a==0 or b==0 or c==0 :
+#     print(0)
+# else:
+#     print(a*100+b*10+c)
+

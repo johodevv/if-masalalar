@@ -161,4 +161,10 @@
 # a = 10
 # b = 15
 # c = 10 
-# if()
+
+# if a == b == c:
+#     print('equilateral')
+# elif a == b or b == c or a == c:
+#     print('isosceles')
+# else:
+#     print('scalene')
